@@ -1,0 +1,37 @@
+h1{
+    color: brown;
+    text-align: center;
+    font-size: 40px;
+    text-underline-position: above;
+    font-style: italic;
+}
+h2{
+    color: burlywood;
+    text-align: center;
+    font-style: italic;
+    font-size: 20px;
+}
+h3{
+    text-align: center;
+    color: burlywood;
+    font-style: italic;
+    font-size: 20px;
+    
+    
+}
+.paint{
+    background-color: rgb(146, 142, 142);
+    border: 2px solid brown;
+    margin: 10px;
+
+}
+.furniture{
+    background-color: rgb(155, 151, 151);
+    border: 2px solid brown;
+    margin: 10px;
+}
+small{
+    color: red;
+    font-style: initial;
+    background-color: beige;
+}
